@@ -19,3 +19,4 @@ If you have any questions you can [file an issue](https://github.com/w3c/html/is
 ## Old HTML repository
 
 The [old HTML repo](https://github.com/w3c/html-old) is available for archival purposes.
+
